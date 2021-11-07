@@ -57,7 +57,7 @@
                             </select>
                         </div>
                     </div>
-                    <div class="text-center"><button type="submit">Add</button></div>
+                    <div class="text-center pt-4"><button class="btn-success btn" type="submit">Add</button></div>
                 </form>
             </div>
         </div>
