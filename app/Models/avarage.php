@@ -7,6 +7,11 @@ use Illuminate\Database\Eloquent\Model;
 
 class avarage extends Model
 {
-    protected $table = 'avarages';
+    protected $fillable = [
+        'college_name',
+        'section',
+        'avarage',
+        'sex'
+];
     use HasFactory;
 }
