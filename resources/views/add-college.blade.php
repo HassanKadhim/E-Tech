@@ -3,10 +3,9 @@
 @section('content')
 
 <section id="contact" class="contact">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 mt-5 mt-lg-10 aos-init aos-animate" data-aos="fade-left" data-aos-delay="200">
-                <form action="{{route('add-college')}}" method="POST" role="form" class="form">
+    <div class="row justify-content-center align-items-center h-100">
+     <div class="col col-sm-6 col-md-6 col-lg-6 col-xl-6 mt-5">
+          <form action="{{route('add-college')}}" method="POST" role="form" class="form">
                     @csrf
                     @if(count($errors) > 0)
                         <div class="alert alert-danger">
@@ -54,13 +53,15 @@
                                     ذكر</option>
                                 <option value="انثى">
                                     انثى</option>
+                                <option value="كِلا">
+                                    كِلا</option>    
                             </select>
                         </div>
                     </div>
-                    <div class="text-center pt-4"><button class="btn-success btn" type="submit">Add</button></div>
+                    <div class="text-center mt-3">
+                        <button type="submit" class="btn btn-outline-success btn-lg">Add College</button>
+                    </div>
                 </form>
-            </div>
-        </div>
     </div>
 </section>
 
