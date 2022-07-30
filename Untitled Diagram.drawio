@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-30T21:02:01.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="4TZb8W6eLpYBolRFYfZP" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-30T21:59:32.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KU69kTgfkHQ_s_xgdsJq" version="20.2.2" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="2215" dy="1924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="1873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,6 +184,9 @@
         <mxCell id="TSLDRbt6V7hRxiRLUqcx-95" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.839;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TSLDRbt6V7hRxiRLUqcx-61" target="TSLDRbt6V7hRxiRLUqcx-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TSLDRbt6V7hRxiRLUqcx-124" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="TSLDRbt6V7hRxiRLUqcx-61" target="TSLDRbt6V7hRxiRLUqcx-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TSLDRbt6V7hRxiRLUqcx-61" value="&lt;b&gt;Main&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="-430" width="120" height="50" as="geometry" />
         </mxCell>
@@ -273,6 +276,12 @@
         </mxCell>
         <mxCell id="TSLDRbt6V7hRxiRLUqcx-119" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="735" y="-120" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TSLDRbt6V7hRxiRLUqcx-122" value="&amp;nbsp;&lt;font size=&quot;3&quot;&gt;- Joun in system&amp;nbsp;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;User have tow method&#39;s &lt;b&gt;Personal&lt;/b&gt;&amp;nbsp; or &lt;b&gt;Organization&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="-730" width="380" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TSLDRbt6V7hRxiRLUqcx-123" value="invitations" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="-562" width="70" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
